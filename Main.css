@@ -1,0 +1,78 @@
+header{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 12%;
+    background-color: rgb(11, 11, 82);
+    color: rgb(214, 210, 210);
+    text-align: center;
+}
+
+body{
+    background-color: rgb(214, 210, 210);
+    color: rgb(11, 11, 82);
+}
+
+a.buttona{
+    color: blue;
+    background-color:white;
+    text-decoration: none;
+    padding: 7px 17px;
+    border: 5px solid white;
+}
+
+a.buttona:hover{
+    color: blue;
+    background-color: white;
+    text-decoration: none;
+    border: 5px solid black;
+}
+
+b.buttonb{
+    color: white;
+    background-color: blue;
+    text-decoration: none;
+    padding: 7px 17px;
+    border: 5px solid black;
+}
+
+p{
+    background-color: rgb(188, 188, 188);
+    width: 50%; /* Adjust width to 50% of the parent container */
+    margin: 0 auto; /* Center the paragraph */
+    text-align: justify; /* Optional: Justify text alignment */
+    padding: 10px 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+nav{
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer{
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgb(11, 11, 82);
+    color: rgb(214, 210, 210);
+    text-align: center;
+}
+
+a{
+    color: rgb(214, 210, 210);
+    text-decoration: none;
+}
